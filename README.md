@@ -1,3 +1,15 @@
+## Exploratory Data Analysis Coursera Project
+
+This project is done as part of Exploratory Data Analysis project conducted by John Hopkins University through Coursera. This project demonstrate the basic plotting capabilities in R. Each of the R file has detailed description of what it does
+
+
+If you plan to run this script the following needs to be done:
+
+1. Download the data and unzip into the folder named *household_power_consumption.txt* in the same directory where *R* file is present
+1. Change the path from /c/usr/jagan/DataScience/ExploratoryDataAnalysis/Week1/Project/ExData_Plotting1 to the directory where *R* file is present
+1. Result file is produced in the current working directory
+
+
 ## Introduction
 
 This assignment uses data from
